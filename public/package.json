@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "A flask react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/precioustone/smilesdotcom.git"
+  },
+  "keywords": [
+    "Flask"
+  ],
+  "author": "Precious Idam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/precioustone/smilesdotcom/issues"
+  },
+  "homepage": "https://github.com/precioustone/smilesdotcom#readme"
+}
